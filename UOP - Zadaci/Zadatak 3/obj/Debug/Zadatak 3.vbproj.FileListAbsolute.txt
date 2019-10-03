@@ -1,0 +1,13 @@
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\bin\Debug\Zadatak 3.exe
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\bin\Debug\Zadatak 3.pdb
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\bin\Debug\Zadatak 3.xml
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak 3.vbprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak_3.Form1.resources
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak_3.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak_3.Plava.resources
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak_3.Zelena.resources
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak 3.vbproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak 3.vbproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak 3.exe
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak 3.xml
+C:\Users\stefa\OneDrive\Desktop\repository\UOP - Zadaci\Zadatak 3\obj\Debug\Zadatak 3.pdb
